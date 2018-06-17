@@ -1,0 +1,96 @@
+This code book indicates the variables in all_data_tidy.txt.
+
+Identifiers:
+subject -  The ID of the test subject
+activity - The type of the activity performed by the subject
+	   A list of activity types
+		1 WALKING
+		2 WALKING_UPSTAIRS
+		3 WALKING_DOWNSTAIRS
+		4 SITTING
+		5 STANDING
+		6 LAYING
+
+Measurements:
+A list of 79 measured variables, mean and standard deviations of variables from the accelerometer and gyroscope 3-axial raw signals. 
+
+1       timeDomainBodyAccelerometerMeanX
+2       timeDomainBodyAccelerometerMeanY
+3       timeDomainBodyAccelerometerMeanZ
+4       timeDomainBodyAccelerometerStandardDeviationX
+5       timeDomainBodyAccelerometerStandardDeviationY
+6       timeDomainBodyAccelerometerStandardDeviationZ
+7       timeDomainGravityAccelerometerMeanX
+8       timeDomainGravityAccelerometerMeanY
+9       timeDomainGravityAccelerometerMeanZ
+10      timeDomainGravityAccelerometerStandardDeviationX
+11      timeDomainGravityAccelerometerStandardDeviationY
+12      timeDomainGravityAccelerometerStandardDeviationZ
+13      timeDomainBodyAccelerometerJerkMeanX
+14      timeDomainBodyAccelerometerJerkMeanY
+15      timeDomainBodyAccelerometerJerkMeanZ
+16      timeDomainBodyAccelerometerJerkStandardDeviationX
+17      timeDomainBodyAccelerometerJerkStandardDeviationY
+18      timeDomainBodyAccelerometerJerkStandardDeviationZ
+19      timeDomainBodyGyroscopeMeanX
+20      timeDomainBodyGyroscopeMeanY
+21      timeDomainBodyGyroscopeMeanZ
+22      timeDomainBodyGyroscopeStandardDeviationX
+23      timeDomainBodyGyroscopeStandardDeviationY
+24      timeDomainBodyGyroscopeStandardDeviationZ
+25      timeDomainBodyGyroscopeJerkMeanX
+26      timeDomainBodyGyroscopeJerkMeanY
+27      timeDomainBodyGyroscopeJerkMeanZ
+28      timeDomainBodyGyroscopeJerkStandardDeviationX
+29      timeDomainBodyGyroscopeJerkStandardDeviationY
+30      timeDomainBodyGyroscopeJerkStandardDeviationZ
+31      timeDomainBodyAccelerometerMagnitudeMean
+32      timeDomainBodyAccelerometerMagnitudeStandardDeviation
+33      timeDomainGravityAccelerometerMagnitudeMean
+34      timeDomainGravityAccelerometerMagnitudeStandardDeviation
+35      timeDomainBodyAccelerometerJerkMagnitudeMean
+36      timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation
+37      timeDomainBodyGyroscopeMagnitudeMean
+38      timeDomainBodyGyroscopeMagnitudeStandardDeviation
+39      timeDomainBodyGyroscopeJerkMagnitudeMean
+40      timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation
+41      frequencyDomainBodyAccelerometerMeanX
+42      frequencyDomainBodyAccelerometerMeanY
+43      frequencyDomainBodyAccelerometerMeanZ
+44      frequencyDomainBodyAccelerometerStandardDeviationX
+45      frequencyDomainBodyAccelerometerStandardDeviationY
+46      frequencyDomainBodyAccelerometerStandardDeviationZ
+47      frequencyDomainBodyAccelerometerMeanFrequencyX
+48      frequencyDomainBodyAccelerometerMeanFrequencyY
+49      frequencyDomainBodyAccelerometerMeanFrequencyZ
+50      frequencyDomainBodyAccelerometerJerkMeanX
+51      frequencyDomainBodyAccelerometerJerkMeanY
+52      frequencyDomainBodyAccelerometerJerkMeanZ
+53      frequencyDomainBodyAccelerometerJerkStandardDeviationX
+54      frequencyDomainBodyAccelerometerJerkStandardDeviationY
+55      frequencyDomainBodyAccelerometerJerkStandardDeviationZ
+56      frequencyDomainBodyAccelerometerJerkMeanFrequencyX
+57      frequencyDomainBodyAccelerometerJerkMeanFrequencyY
+58      frequencyDomainBodyAccelerometerJerkMeanFrequencyZ
+59      frequencyDomainBodyGyroscopeMeanX
+60      frequencyDomainBodyGyroscopeMeanY
+61      frequencyDomainBodyGyroscopeMeanZ
+62      frequencyDomainBodyGyroscopeStandardDeviationX
+63      frequencyDomainBodyGyroscopeStandardDeviationY
+64      frequencyDomainBodyGyroscopeStandardDeviationZ
+65      frequencyDomainBodyGyroscopeMeanFrequencyX
+66      frequencyDomainBodyGyroscopeMeanFrequencyY
+67      frequencyDomainBodyGyroscopeMeanFrequencyZ
+68      frequencyDomainBodyAccelerometerMagnitudeMean
+69      frequencyDomainBodyAccelerometerMagnitudeStandardDeviation
+70      frequencyDomainBodyAccelerometerMagnitudeMeanFrequency
+71      frequencyDomainBodyAccelerometerJerkMagnitudeMean
+72      frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation
+73      frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency
+74      frequencyDomainBodyGyroscopeMagnitudeMean
+75      frequencyDomainBodyGyroscopeMagnitudeStandardDeviation
+76      frequencyDomainBodyGyroscopeMagnitudeMeanFrequency
+77      frequencyDomainBodyGyroscopeJerkMagnitudeMean
+78      frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation
+79      frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency
+
